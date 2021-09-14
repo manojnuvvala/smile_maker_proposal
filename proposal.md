@@ -9,4 +9,9 @@ Smile Maker
 1. Manoj Nuvvala
 2. Sai Kiran Reddy Enugala
 
-
+### Technology Stack
+- Backend language + framework: Python, Flask
+- Backend free app host: Heroku
+- Data host + type: SQLite/MySQL
+- Front-end page plan: server-side views
+- Front-end responsive design: Bootstrap
