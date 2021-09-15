@@ -16,4 +16,4 @@ Smile Maker
 - Front-end page plan: server-side views
 - Front-end responsive design: Bootstrap
 
-[Proposal link](https://github.com/manojnuvvala/smile_maker_proposal/blob/main/proposal.md)
+
