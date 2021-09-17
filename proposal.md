@@ -36,6 +36,13 @@
 - Budget is set by the size of the development team * average expected hours per developer per week
 - Scope of work should be clearly divided into sprint buckets of time
 
+### Budget
+
+| Team Member                   | Cost per hour | Cost per week | Roles                  |
+| ----------------------------- | ------------- | ------------- | ---------------------- |
+| Manoj Nuvvala                 | 30$           | 1200$         | Backend                |
+| Sai Kiran Reddy Enugula       | 30$           | 1200$         | Frontend               |
+
 ### Technology Stack
 - Backend language + framework: Python, Flask
 - Backend free app host: Heroku
