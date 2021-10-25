@@ -1,1 +1,0 @@
-File contains views of the Application.
