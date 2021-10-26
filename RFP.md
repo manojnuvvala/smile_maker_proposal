@@ -92,3 +92,8 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - Front end with CSS ,Bootstrap and HTML
 - Backend With Python
 - Api's for jokes Any public api that can used for free.
+
+
+## References
+- [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/)
+- [Python Documentation](https://docs.python.org/3/tutorial/)
