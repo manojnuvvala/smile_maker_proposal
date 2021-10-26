@@ -6,6 +6,6 @@
 - Restful api’s are used for serving the data
 - Application is developed in python with flask framework using Mysql/SQLite as database.
 
-[Link to rfp](https://github.com/giridhar196/smile-maker/blob/main/rfp.md)
+[Link to rfp](https://github.com/manojnuvvala/smile_maker_proposal/blob/main/RFP.md)
 
 [Proposal link](https://github.com/manojnuvvala/smile_maker_proposal/blob/main/proposal.md)
