@@ -63,6 +63,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
 
 ### Mockup Screen
 
+[Mock Screen](https://github.com/manojnuvvala/smile_maker_proposal/blob/main/mockscreens.md)
 
 ### Logo Sample
 
