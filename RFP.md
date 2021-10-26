@@ -59,7 +59,7 @@ This app shows up a joke every time when the user opens it. The user can login, 
     - Name
 ### ER Diagram
 
-<img src="img/ER_Diagram.png" alt="ER_Diagram"/>
+<img src="Img/ER_Diagram.png" alt="ER_Diagram"/>
 
 ### Mockup Screen
 
