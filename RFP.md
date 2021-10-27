@@ -68,6 +68,10 @@ This app shows up a joke every time when the user opens it. The user can login, 
 ### Logo Sample
 
 
+## Sample Data
+
+<img src="Img/Sampledata.PNG" alt="Sample Data"/>
+
 ## Bidder Qualifications
 
 - Product based application which can maintain self.

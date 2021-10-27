@@ -50,4 +50,24 @@ This app shows up a joke every time when the user opens it. The user can login, 
 - Front-end page plan: server-side views
 - Front-end responsive design: Bootstrap
 
+## Entities
+
+### User
+     - Email
+     - Password
+     - CreatedOn
+     - Gender
+     - UserType
+     - UserName
+     - Name
+
+### Jokes-Api
+    - UserName
+    - DateOfSubmit
+    - Joke_Text
+    - IsActive
+    - Name
+### ER Diagram
+
+<img src="Img/ER_Diagram.png" alt="ER_Diagram"/>
 
