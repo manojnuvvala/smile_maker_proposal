@@ -10,8 +10,9 @@
 
 [Proposal link](https://github.com/manojnuvvala/smile_maker_proposal/blob/main/proposal.md)
 
-
 [Development Repo](https://github.com/manojnuvvala/FlaskDevelopment)
+
+[Project gdp1](https://github.com/manojnuvvala/smile_maker_proposal/projects/1)
 
 [Deploy App](https://smile-maker.herokuapp.com/)
 
